@@ -2,7 +2,7 @@
 ## hw1 simple shell
 Outline:
 1 Requirement (作業要求)
-  1.1 run built-in command
+  \n1.1 run built-in command
   1.2 run single process command
   1.3 run two-process pipelines
   1.4 handle input and output redirection
