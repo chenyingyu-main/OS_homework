@@ -32,3 +32,17 @@ this is the homework in the junior course OS
 >
 >5. Precautions/Reference (注意事項/參考連結)
 >
+## hw2 Multi-threaded and kernel module programming
+>### Outline: (詳情參考作業pdf)
+> * Multi-threaded Program
+>
+>>Take advantage of multi-core systems
+>>
+>>Load sharing
+>
+> * Linux Kernel Module
+>
+>>Understand how to write a kernel module
+>>
+>>Understand how to provide read/write operations of proc files to users
+
