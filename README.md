@@ -1,6 +1,6 @@
 # OS-homework
 ## hw1 simple shell
-> ### Outline:
+> ### Outline: (詳情參考作業pdf)
 >
 >1. Requirement (作業要求)
 >
