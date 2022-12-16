@@ -1,3 +1,5 @@
+this is the homework in the junior course OS
+
 # OS-homework
 ## hw1 simple shell
 > ### Outline: (詳情參考作業pdf)
