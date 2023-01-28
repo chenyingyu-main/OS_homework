@@ -47,4 +47,13 @@ this is the homework in the junior course OS
 >>Understand how to provide read/write operations of proc files to users
 >
 ## hw3 Scheduler Simulator
+>### Outline: (詳情參考作業pdf)
+>Understand how to implement user-level thread scheduling
+>
+>Understand how signal works in Linux
+>
+>Understand how scheduling algorithms affect results
+>
+>* I didnt pass all the testing task :(
+>
 
